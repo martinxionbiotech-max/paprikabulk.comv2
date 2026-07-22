@@ -1,18 +1,12 @@
 ---
 title: Specifications — Product Spec Sheets
-<<<<<<< Updated upstream
-description: Complete product specifications for all paprika grades — powder, flakes, and whole pods.
-=======
 description: Complete product specifications for all paprika grades and forms — powder, flakes, and whole pods. Detailed technical data for Premium, Superior, Standard, and Special ASTA 200+ grades with application guidance.
->>>>>>> Stashed changes
 keywords:
 - paprika specifications
 - paprika powder spec
 - paprika flakes spec
 - premium grade spec
 - superior grade spec
-<<<<<<< Updated upstream
-=======
 - standard grade spec
 - special grade spec
 - paprika ASTA ranges
@@ -23,30 +17,10 @@ keywords:
 - paprika parameter limits
 datePublished: 2025-06-01
 dateModified: 2026-07-21
->>>>>>> Stashed changes
 ---
 
 # Specifications — Product Specifications
 
-<<<<<<< Updated upstream
-Complete technical specifications for all paprika product forms and grades:
-
-## Powder Grades
-- [Premium (ASTA 160–200)](paprika-powder/premium-grade.md)
-- [Superior (ASTA 120–160)](paprika-powder/superior-grade.md)
-- [Standard (ASTA 80–120)](paprika-powder/standard-grade.md)
-- [Special ASTA200+](paprika-powder/special-grade.md)
-
-## Flake Grades
-- [Premium (ASTA 160–200)](paprika-flakes/premium-grade.md)
-- [Superior (ASTA 120–160)](paprika-flakes/superior-grade.md)
-- [Standard (ASTA 80–120)](paprika-flakes/standard-grade.md)
-- [Special ASTA200+](paprika-flakes/special-grade.md)
-
-## Additional
-- [Whole Pods](whole-pods.md)
-- [Grade Comparison](grade-comparison.md)
-=======
 Complete technical specifications for all paprika product forms and grades. Each spec sheet provides comprehensive data on chemical, physical, microbiological, and regulatory parameters.
 
 ## How to Read These Specifications
@@ -157,4 +131,3 @@ When reviewing a product specification from a supplier, use this checklist to en
 ---
 
 *This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved. For the latest version, visit [paprikabulk.com](https://paprikabulk.com).*
->>>>>>> Stashed changes

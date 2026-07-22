@@ -1,18 +1,13 @@
 ---
 title: Quality Case Studies
 category: Case Studies
-<<<<<<< Updated upstream
-=======
 description: Real-world quality incidents in paprika procurement — root cause analysis, corrective actions, and lessons learned from ASTA deviations, moisture damage, and food safety events. Practical reference for B2B buyers and QC teams.
->>>>>>> Stashed changes
 keywords:
 - case study
 - quality issue
 - root cause analysis
 - CAPA
 - real experience
-<<<<<<< Updated upstream
-=======
 - paprika quality incidents
 - ASTA deviation case
 - container caking
@@ -23,28 +18,12 @@ keywords:
 - supplier quality failure
 datePublished: 2025-06-01
 dateModified: 2026-07-21
->>>>>>> Stashed changes
 ---
 
 # Quality Case Studies — Real Experiences in Paprika Procurement
 
 This section documents **actual quality incidents** encountered in paprika sourcing, production, and logistics. Each case includes the full story — what happened, root cause investigation, corrective actions taken, and lessons learned.
 
-<<<<<<< Updated upstream
-These cases demonstrate real-world experience (E-E-A-T's "Experience" dimension) and provide practical reference for buyers and QC teams facing similar situations.
-
-> **Privacy Note:** Customer names, supplier identities, and batch numbers have been anonymized. All data is representative of real incidents.
-
----
-
-## Case List
-
-| Case | Issue Type | Severity | Year |
-|:----|:-----------|:--------:|:----:|
-| [Case 1: ASTA Color Value Discrepancy at Port](./asta-deviation-resolution.md) | Specification non-conformance | High | 2025 |
-| [Case 2: Caking and Clumping in Container Shipment](./container-caking-incident.md) | Physical damage / moisture | Critical | 2024 |
-| [Case 3: Salmonella Suspect — Border Detention](./salmonella-border-detention.md) | Food safety / regulatory | Critical | 2025 |
-=======
 These cases demonstrate real-world experience (E-E-A-T's "Experience" and "Expertise" dimensions) and provide practical reference for buyers and QC teams facing similar situations.
 
 > **Privacy Note:** Customer names, supplier identities, and batch numbers have been anonymized. All data is representative of real incidents.
@@ -136,15 +115,11 @@ If you have experienced a quality incident in paprika procurement that you'd lik
 | **High** — Product usable but below specification | Case 1 | Dispute resolution, compensation negotiation, contract revision |
 | **Medium** — Minor deviation with waiver possible | (Planned) | Customer communication, deviation waiver, price adjustment |
 | **Low** — Documentation issue only | (Planned) | Documentation correction, preventive procedure update |
->>>>>>> Stashed changes
 
 ---
 
 > *These case studies are part of Dinweys (Qingdao).Co.,Ltd's commitment to supply chain transparency and continuous quality improvement.*
-<<<<<<< Updated upstream
-=======
 
 ---
 
 *This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved. For the latest version, visit [paprikabulk.com](https://paprikabulk.com).*
->>>>>>> Stashed changes

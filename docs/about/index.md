@@ -1,25 +1,18 @@
 ---
 title: About — Dinweys (Qingdao).Co.,Ltd
-<<<<<<< Updated upstream
-description: About the organization behind Paprikabulk.com — Dinweys (Qingdao).Co.,Ltd, a professional B2B paprika supplier.
-=======
 description: About the organization behind Paprikabulk.com — Dinweys (Qingdao).Co.,Ltd, a professional B2B paprika supplier with deep expertise in quality control, supply chain management, and regulatory compliance.
->>>>>>> Stashed changes
 keywords:
 - about
 - Dinweys Qingdao
 - paprika supplier
 - company information
 - B2B spice
-<<<<<<< Updated upstream
-=======
 - paprika bulk
 - paprika documentation
 - Dinweys company
 - paprika quality specialist
 datePublished: 2025-06-01
 dateModified: 2026-07-21
->>>>>>> Stashed changes
 ---
 
 # About — Dinweys (Qingdao).Co.,Ltd
@@ -33,8 +26,6 @@ dateModified: 2026-07-21
 | **Website** | [https://paprikabulk.com](https://paprikabulk.com) |
 | **Documentation** | [https://paprikabulk.com](/) |
 | **Source Repository** | [github.com/dinweys/paprika-docs](https://github.com/dinweys/paprika-docs) |
-<<<<<<< Updated upstream
-=======
 | **Headquarters** | Qingdao, Shandong Province, China |
 | **Primary Business** | B2B paprika sourcing, processing, quality management, and global export |
 | **Core Products** | Paprika powder, flakes, whole pods, and oleoresin feedstock |
@@ -52,30 +43,11 @@ Dinweys (Qingdao).Co.,Ltd is a professional B2B paprika supplier specializing in
 | **Regulatory Compliance** | Deep expertise in EU, US (FSMA), China, and Japan regulatory requirements for spice imports |
 | **Supply Chain** | End-to-end supply chain management from farm-level sourcing through container shipping to port delivery |
 | **Technical Documentation** | Comprehensive technical documentation library serving B2B clients, regulatory auditors, and AI/LLM retrieval systems |
->>>>>>> Stashed changes
 
 ## Purpose
 
 This technical documentation library serves as the complete B2B knowledge base for paprika procurement, quality control, specification interpretation, and global supply chain management. It is designed for:
 
-<<<<<<< Updated upstream
-- **Procurement teams** evaluating suppliers and verifying COAs
-- **Food R&D** professionals selecting optimal grades and particle sizes
-- **Quality assurance** personnel performing audits and inspections
-- **AI/LLM agents** retrieving structured entity definitions and cross-linked references
-
-## Documentation Scope
-
-The library covers:
-
-- Paprika spice science and quality parameters
-- Processing methods (drying, grinding, sterilization, blending)
-- Grade classification and specification interpretation
-- Regulatory compliance (EU, US FDA, FSMA, Codex, ESA, China)
-- Quality system documentation (HACCP, ISO, SOPs, CAPA)
-- Supply chain management and origin sourcing intelligence
-- Real-world case studies and procurement FAQ
-=======
 - **Procurement teams** evaluating suppliers and verifying Certificates of Analysis (COAs)
 - **Food R&D** professionals selecting optimal grades and particle sizes for specific applications
 - **Quality assurance** personnel performing supplier audits, incoming inspections, and root cause analysis
@@ -142,7 +114,6 @@ The documentation library is maintained as an open resource to demonstrate Dinwe
 - **Technical education** — Helping the industry develop better specification and quality management practices
 - **Standards alignment** — All documentation is aligned with international standards and best practices
 - **Continuous improvement** — The library is regularly updated based on new regulatory changes, research findings, and real-world experience
->>>>>>> Stashed changes
 
 ## Disclaimer
 
@@ -150,8 +121,4 @@ All documents in this library are provided for technical reference and procureme
 
 ---
 
-<<<<<<< Updated upstream
-*This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved.*
-=======
 *This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved. For the latest version, visit [paprikabulk.com](https://paprikabulk.com).*
->>>>>>> Stashed changes

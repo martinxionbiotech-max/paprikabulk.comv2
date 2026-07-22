@@ -1,9 +1,5 @@
 ---
 title: [White Paper Title]
-<<<<<<< Updated upstream
-description: [Abstract]
-keywords: []
-=======
 description: [Abstract — 2–3 sentence summary of the paper's purpose, methodology, and key conclusions for search engines and readers]
 keywords:
 - [keyword1]
@@ -14,49 +10,12 @@ keywords:
 - [application term]
 datePublished: YYYY-MM-DD
 dateModified: YYYY-MM-DD
->>>>>>> Stashed changes
 ---
 
 # [White Paper Title]
 
 ## Abstract
 
-<<<<<<< Updated upstream
-[1–2 paragraph summary of the paper's purpose, findings, and conclusions]
-
-## 1. Introduction
-
-[Background and context for the topic]
-
-## 2. Technical Discussion
-
-### 2.1 [Subtopic]
-
-[Detailed technical content with data, tables, figures]
-
-### 2.2 [Subtopic]
-
-[Additional technical content]
-
-## 3. Comparative Analysis
-
-| Parameter | [Option A] | [Option B] | [Option C] |
-|:---------:|:---------:|:---------:|:---------:|
-| [Metric] | [Value] | [Value] | [Value] |
-
-## 4. Practical Implications
-
-[How this information applies to real procurement/production decisions]
-
-## 5. Conclusion
-
-[Summary of key takeaways and recommendations]
-
-## References
-
-1. [Citation]
-2. [Citation]
-=======
 [1–2 paragraph summary of the paper's purpose, findings, and conclusions. The abstract should be self-contained — a reader should understand the key message without reading the full paper, and search engines should be able to index the core value. Include:
 
 - Problem statement (1 sentence)
@@ -200,7 +159,6 @@ dateModified: YYYY-MM-DD
 - [Related White Paper 2](../white-papers/[paper-name].md) — Brief description
 - [Related Specification](../specifications/[doc].md) — Brief description
 - [Glossary Entry](../glossary/[category]/[term].md) — Key term definition
->>>>>>> Stashed changes
 
 ---
 

@@ -8,8 +8,6 @@ keywords:
 - pain receptor
 - vanilloid
 - heat sensation
-<<<<<<< Updated upstream
-=======
 - nociception
 - SHU
 - Scoville
@@ -18,23 +16,12 @@ keywords:
 - sensory biology
 - desensitization
 - analgesia
->>>>>>> Stashed changes
 ---
 
 # TRPV1 — The Biological Receptor for Capsaicin
 
 ## Overview
 
-<<<<<<< Updated upstream
-TRPV1 (Transient Receptor Potential Vanilloid 1) is the cation channel protein in sensory neurons that detects noxious heat (> 42°C) and is specifically activated by capsaicin — the pungent compound in *Capsicum* peppers. This receptor is the biological basis for Scoville Heat Unit (SHU) measurements and the human perception of "spiciness."
-
-## Relevance to Paprika Trade
-
-TRPV1 activation threshold determines the sensory response to capsaicinoids. Sweet paprika (SHU ≤ 500) contains insufficient capsaicin to activate TRPV1 above the human detection threshold — this is why sweet paprika tastes "not spicy." This knowledge informs:
-- **Pungency grading** — differentiation between sweet (SHU ≤ 500) and pungent varieties
-- **Product formulation** — targeting TRPV1 activation kinetics for controlled heat release
-- **Regulatory labeling** — pungency warning requirements in some markets
-=======
 TRPV1 (Transient Receptor Potential Vanilloid 1) is a non-selective cation channel protein encoded by the *TRPV1* gene, expressed primarily in small-diameter sensory neurons (C-fibers and Aδ-fibers) of the dorsal root, trigeminal, and nodose ganglia. It functions as a molecular integrator of noxious stimuli — detecting **temperature > 42°C**, acidic pH (< 5.9), and a range of chemical agonists including capsaicin, the principal pungent compound in *Capsicum* peppers. The discovery of TRPV1 (cloned in 1997 by Julius et al., University of California, San Francisco) was recognized with the 2021 Nobel Prize in Physiology or Medicine.
 
 This receptor is the biological basis for Scoville Heat Unit (SHU) measurements, the human perception of "spiciness," and the development of capsaicin-based pharmaceutical formulations for chronic pain management.
@@ -166,18 +153,11 @@ A: In normal dietary amounts, no. TRPV1 activation is a sensory response — it 
 
 **Q: How does TRPV1 testing differ from SHU calculation?**
 A: SHU is a sensory-based measurement (human panel assessment of dilution-to-extinction); TRPV1 activation data comes from *in vitro* electrophysiology (patch-clamp recording on TRPV1-expressing HEK293 cells). Modern quality control uses HPLC-measured capsaicinoid concentration with a conversion factor (1 ppm capsaicinoid ≈ 15 SHU). TRPV1 EC₅₀ values provide mechanistic understanding but are not used for routine QC.
->>>>>>> Stashed changes
 
 ## Cross-References
 
 - [SHU (Scoville Heat Units)](../glossary/spice-science/shu.md) — Measurement of TRPV1 activation potential
 - [Capsaicin](../glossary/spice-science/capsaicin.md) — The primary TRPV1 agonist in paprika
-<<<<<<< Updated upstream
-
----
-
-*This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved.*
-=======
 - [Capsicum](../glossary/spice-science/capsicum.md) — The host plant for capsaicinoid biosynthesis
 - [HPLC Method](../quality-control/hplc.md) — Analytical determination of capsaicinoid content
 - [Sensory Evaluation](../quality-control/sensory-evaluation.md) — Human panel assessment of pungency
@@ -190,4 +170,3 @@ A: SHU is a sensory-based measurement (human panel assessment of dilution-to-ext
 ---
 
 *This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved. For the latest version, visit [paprikabulk.com](https://paprikabulk.com).*
->>>>>>> Stashed changes

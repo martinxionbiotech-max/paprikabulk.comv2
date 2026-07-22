@@ -1,10 +1,6 @@
 ---
 title: Datasets — Structured Quality Data & Reference Tables
-<<<<<<< Updated upstream
-description: Structured technical datasets — ASTA conversion charts, grade comparison tables, regulatory limit databases, and quality parameter reference tables.
-=======
 description: Comprehensive structured datasets for paprika quality — ASTA conversion charts, grade comparison tables, regulatory limit databases, microbiological limits, heavy metals, pesticide MRLs, mycotoxin limits, storage conditions, shelf life, particle size distribution, and bulk density reference tables.
->>>>>>> Stashed changes
 keywords:
 - paprika datasets
 - quality data
@@ -12,8 +8,6 @@ keywords:
 - ASTA conversion
 - MRL database
 - regulatory limits
-<<<<<<< Updated upstream
-=======
 - microbiological limits paprika
 - heavy metals limits
 - pesticide residue limits
@@ -26,33 +20,10 @@ keywords:
 - spice analytical data
 datePublished: 2025-06-01
 dateModified: 2026-07-21
->>>>>>> Stashed changes
 ---
 
 # Datasets — Structured Quality Data & Reference Tables
 
-<<<<<<< Updated upstream
-This section provides structured, machine-readable reference datasets for paprika quality parameters, regulatory limits, and conversion tables.
-
-## Available Datasets
-
-| Dataset | Format | Content |
-|:--------|:------:|:--------|
-| [ASTA Color Value Method](../glossary/spice-science/asta.md) | Structured tables | Formula, range definitions, grade correlation |
-| [Grade Comparison](../specifications/grade-comparison.md) | Comparison table | All grades side-by-side (9 parameters) |
-| [Microbiological Limits](../glossary/quality-control/microbiology.md) | Lookup table | EU / US / China limits for all pathogens |
-| [Heavy Metals Limits](../glossary/quality-control/heavy-metals.md) | Lookup table | Pb, Cd, As, Hg limits across 6 markets |
-| [Pesticide MRL Database](../quality-control/pesticide-residue-management.md) | Reference table | EU / US / CN / JP limits for high-risk pesticides |
-| [Mycotoxin Limits](../quality-control/mycotoxin-monitoring.md) | Lookup table | Aflatoxin B1, total, OTA — 5 regulatory systems |
-| [Storage Conditions](../quality-control/storage.md) | Data table | Degradation rates × temperature × packaging |
-| [Shelf Life](../regulatory/shelf-life.md) | Reference table | Typical shelf life by product form |
-| [Particle Size Distribution](../quality-control/sieve-analysis.md) | Data table | Mesh size × grade retention percentages |
-| [Bulk Density](../quality-control/bulk-density.md) | Data table | Loose/tapped density, Carr Index, Hausner Ratio |
-
----
-
-*This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved.*
-=======
 This section provides structured, machine-readable reference datasets for paprika quality parameters, regulatory limits, and conversion tables. These datasets are designed for use by QC laboratories, procurement teams, data-driven quality systems, and AI/LLM retrieval applications.
 
 ## Using These Datasets
@@ -171,4 +142,3 @@ All datasets are published in Markdown table format. To convert for your own use
 ---
 
 *This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved. For the latest version, visit [paprikabulk.com](https://paprikabulk.com).*
->>>>>>> Stashed changes

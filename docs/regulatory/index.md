@@ -1,18 +1,12 @@
 ---
 title: Regulatory Compliance — Standards & Regulations
-<<<<<<< Updated upstream
-description: Regulatory compliance documentation for paprika — ESA, AOAC, Codex, GMO, FSMA, packaging, shelf life, and solvent extraction standards.
-=======
 description: Comprehensive regulatory compliance documentation for paprika — ESA, AOAC, Codex, GMO, FSMA, packaging, shelf life, and solvent extraction standards covering EU, US, China, and Japan markets. Complete reference for import requirements.
->>>>>>> Stashed changes
 keywords:
 - regulatory compliance
 - ESA standards
 - Codex Alimentarius
 - FSMA
 - paprika regulations
-<<<<<<< Updated upstream
-=======
 - AOAC methods
 - GMO compliance
 - packaging standards paprika
@@ -25,24 +19,10 @@ keywords:
 - japan food sanitation
 datePublished: 2025-06-01
 dateModified: 2026-07-21
->>>>>>> Stashed changes
 ---
 
 # Regulatory Compliance — Global Standards & Regulations
 
-<<<<<<< Updated upstream
-| Topic | Description |
-|:------|:------------|
-| [ESA European Standards](esa.md) | European Spice Association quality minima |
-| [AOAC Official Methods](aoac.md) | AOAC international analytical methods |
-| [Codex Alimentarius](codex.md) | International food standards |
-| [GMO Regulatory Framework](gmo.md) | GMO labeling and regulatory context |
-| [TRPV1 / Capsaicin](trpv1.md) | Regulatory context for capsaicin |
-| [Packaging Standards](packaging.md) | Barrier requirements and standards |
-| [Shelf Life Guidelines](shelf-life.md) | Shelf life management and ASLT |
-| [Solvent Extraction Limits](solvent-extraction.md) | Residual solvent regulations |
-| [FSMA — US Import Compliance](fsma-compliance.md) | FDA Food Safety Modernization Act |
-=======
 This section documents the global regulatory framework governing paprika production, import, and trade. Compliance with these standards is verified through third-party testing and documentation for every shipment.
 
 ## Regulatory Landscape Overview
@@ -151,4 +131,3 @@ Regulatory requirements change frequently. Key changes to monitor:
 ---
 
 *This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved. For the latest version, visit [paprikabulk.com](https://paprikabulk.com).*
->>>>>>> Stashed changes

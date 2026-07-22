@@ -9,24 +9,18 @@ keywords:
 - humidity control
 - fumigation
 - stock rotation
-<<<<<<< Updated upstream
-=======
 - FIFO
 - IPM
 - cold storage
 - barrier packaging
 - ASTA degradation
 - pallet storage
->>>>>>> Stashed changes
 ---
 
 # Storage — Best Practices for Paprika Preservation
 
 ## Definition
 
-<<<<<<< Updated upstream
-Storage encompasses the conditions and practices for preserving paprika quality from the point of production (or receipt) through to final use. The key controlled variables are **temperature, relative humidity, light exposure, atmospheric oxygen**, and **duration**, along with **stock rotation** (FIFO/FEFO) and **pest management** (IPM).
-=======
 Storage encompasses the conditions and practices for preserving paprika quality from the point of production (or receipt) through to final use. The key controlled variables are **temperature, relative humidity, light exposure, atmospheric oxygen**, and **duration**, along with **stock rotation** (FIFO/FEFO) and **pest management** (IPM). Proper storage management is the single most cost-effective intervention for maintaining paprika quality throughout the supply chain.
 
 ## Background — The Chemistry of Paprika Degradation in Storage
@@ -41,7 +35,6 @@ Paprika quality degrades through four primary chemical pathways during storage:
 | Non-enzymatic browning (Maillard) | Reducing sugars + amino acids at a_w > 0.50 | L* (darkens), flavor | Slow (only in high-moisture product) |
 
 The key insight is that **temperature** and **oxygen** are multiplicative factors — storage at 30°C with 21% O₂ causes roughly 4× the carotenoid loss of storage at 20°C with 2% O₂ (nitrogen flushing).
->>>>>>> Stashed changes
 
 ## Optimal Storage Conditions
 
@@ -50,21 +43,6 @@ The key insight is that **temperature** and **oxygen** are multiplicative factor
 | Temperature | 15–20°C | 10–20°C | 4–8°C |
 | Relative Humidity | ≤ 40% RH | ≤ 50% RH | N/A (sealed) |
 | Light | Complete exclusion | Exclusion | Amber/opaque |
-<<<<<<< Updated upstream
-| Packaging | Foil/barrier (O₂TR < 5 cm³/m²/day) | Kraft + PE liner | HDPE/steel drum |
-| Max Storage | 12 months | 24 months | 24 months |
-| FIFO/FEFO | Required | Required | Required |
-
-## Degradation Rates at Various Storage Conditions
-
-| Storage Condition | ASTA Loss per Year (Powder) | Shelf Life (to −20% ASTA) |
-|-------------------|:--------------------------:|:------------------------:|
-| 5°C, sealed barrier, dark | 2–5% | 4–6 years |
-| 20°C, sealed barrier, dark | 5–10% | 2–3 years |
-| 25°C, sealed, indirect light | 10–18% | 1–2 years |
-| 30°C, standard bag, dark | 18–30% | 8–12 months |
-| 35°C, standard bag, warehouse light | 30–50% | 4–8 months |
-=======
 | Packaging — primary | Foil/barrier (O₂TR < 5 cm³/m²/day) | Kraft + PE liner | HDPE/steel drum |
 | Packaging — secondary | Corrugated carton (for loose bags) | Corrugated + pallet wrap | Palletized drums |
 | O₂ residual in package | < 2% (N₂ flush preferred) | N/A (whole pods less sensitive) | < 1% (N₂ headspace) |
@@ -203,7 +181,6 @@ A: Oxygen scavengers (iron-based, ascorbate-based) can reduce headspace O₂ to 
 **Q: How often should storage conditions be audited?**
 
 A: Continuous monitoring (digital hygrothermographs with alarm) is recommended. Manual verification of records at least weekly. Full environmental audit (including light levels, air flow, pest activity) quarterly.
->>>>>>> Stashed changes
 
 ## Cross-References
 
@@ -212,11 +189,8 @@ A: Continuous monitoring (digital hygrothermographs with alarm) is recommended. 
 - [ASTA Color Value](../glossary/spice-science/asta.md) — Tracking ASTA degradation over time
 - [Incoming Inspection](./incoming-inspection.md) — Receiving storage evaluation
 - [Container Loading](../glossary/sourcing-trade/container-loading.md) — Arrival storage handover
-<<<<<<< Updated upstream
-=======
 - [Acceptance Criteria](../glossary/quality-control/acceptance-criteria.md) — Shelf life specification limits
 - [Spectrophotometer](./spectrophotometer.md) — Monitoring color degradation analytically
->>>>>>> Stashed changes
 
 ---
 

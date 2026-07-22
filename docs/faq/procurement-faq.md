@@ -1,66 +1,6 @@
 ---
 title: B2B Procurement FAQ — 10 Real Quality Disputes
 schema_type: FAQPage
-<<<<<<< Updated upstream
-description: Answers to 10 real B2B quality disputes in paprika procurement — ASTA discrepancies, caking, contamination, and more.
-keywords:
-- paprika FAQ
-- procurement FAQ
-- quality dispute
-- supplier dispute
-- common issues
-faq_questions:
-  - "@type": "Question"
-    name: "Why did my paprika arrive with lower ASTA color value than the COA stated?"
-    acceptedAnswer:
-      "@type": "Answer"
-      text: "Sampling error is the #1 cause. ISO 948 requires representative probing from multiple bags. If the buyer sampled only from accessible outer bags or used scoop sampling from bag tops, the sample over-represents fines and gives artificially high ASTA. The other common cause is light/heat exposure during transport — ASTA degrades 5-10% per year at 20°C in sealed barrier packaging."
-  - "@type": "Question"
-    name: "What causes paprika powder to cake or clump inside sealed shipping bags?"
-    acceptedAnswer:
-      "@type": "Answer"
-      text: "Moisture migration during transit. If the container experiences temperature cycling, moisture redistributes from the warm headspace to the cooler product surface, creating localized high-moisture zones where caking occurs. The fix is foil-laminated barrier bags with desiccant strips and temperature-controlled containers."
-  - "@type": "Question"
-    name: "What happens if salmonella is detected in our shipment at the destination port?"
-    acceptedAnswer:
-      "@type": "Answer"
-      text: "The lot is immediately detained. In the US, FDA issues an Import Alert (DWPE). Options: re-export to sterilization facility, destroy under customs supervision, or appeal with evidence of pathogen elimination. Each incident costs $15,000-50,000 in addition to product value. A documented HACCP plan with sterilization CCP records is the best defense."
-  - "@type": "Question"
-    name: "How do I verify a suppliers COA is accurate before accepting a shipment?"
-    acceptedAnswer:
-      "@type": "Answer"
-      text: "Cross-verify: results must fall within method reproducibility (±5 ASTA for ASTA 20.1), test date within 30 days of shipment, and compare against your own incoming inspection. Request a retained sample and test independently at a third-party lab (SGS, Eurofins, Intertek)."
-  - "@type": "Question"
-    name: "What pesticide residues are most commonly found in paprika from China?"
-    acceptedAnswer:
-      "@type": "Answer"
-      text: "Chlorpyrifos and chlorpyrifos-methyl are the most frequent detections in EU RASFF alerts. Both are banned in the EU (default MRL 0.01 mg/kg). A multi-residue screen covering 500+ compounds is recommended for every container destined for the EU or Japan."
-  - "@type": "Question"
-    name: "What is the shelf life of paprika powder and how is it determined?"
-    acceptedAnswer:
-      "@type": "Answer"
-      text: "12-18 months for powder in sealed barrier packaging at 20°C. Defined as time to 20% ASTA loss. ASLT at 40°C/75% RH for 3 months correlates to 12 months at 25°C (Q10 = 2.0). Key factors: moisture <10%, temperature <20°C, light exclusion, OTR <5 cm³/m²/day."
-  - "@type": "Question"
-    name: "How do I handle a lot that passes my tests but fails the customer tests?"
-    acceptedAnswer:
-      "@type": "Answer"
-      text: "Follow the dispute resolution protocol: confirm ISO 948 sampling, exchange retained samples, submit both to accredited third-party lab. Within method reproducibility (±5 ASTA), both results valid and average taken. The inaccurate party bears retest costs. Keep a retained sample for 12+ months past expiry."
-  - "@type": "Question"
-    name: "What are the aflatoxin limits for paprika in different markets?"
-    acceptedAnswer:
-      "@type": "Answer"
-      text: "EU: total aflatoxins ≤10 µg/kg, AFB1 ≤5 µg/kg. US FDA: 20 µg/kg action level. China GB 2762: ≤10 µg/kg. Japan: ≤10 µg/kg AFB1. Codex: ≤15 µg/kg guideline. Use 3x normal incremental samples and grind entire 5 kg composite before sub-sampling."
-  - "@type": "Question"
-    name: "What FSMA requirements apply to my paprika imports into the United States?"
-    acceptedAnswer:
-      "@type": "Answer"
-      text: "Must register with FDA (biennial renewal), have DUNS number, designate US Agent, pass GFSI audit (BRC/SQF/FSSC 22000), provide lot-specific COAs. Prior Notice 8 hours before vessel arrival."
-  - "@type": "Question"
-    name: "My paprika has an orange tint instead of deep red — what caused this?"
-    acceptedAnswer:
-      "@type": "Answer"
-      text: "Orange tint indicates low a*/b* ratio (<1.5). Causes: early harvest, variety with low capsanthin, high-temp drying (>75°C) degrading red pigments faster than yellow, or over-grinding releasing seed oil. Cannot be fixed after grinding. Blending with Special Grade (ASTA 200+) can improve redness."
-=======
 description: Answers to 10 real B2B quality disputes in paprika procurement — ASTA discrepancies, caking, contamination, COA verification, MRL compliance, aflatoxin limits, and FSMA requirements.
 keywords:
 - paprika FAQ
@@ -93,7 +33,6 @@ faq_json: |
     {"@type":"Question","name":"What FSMA requirements apply to paprika imports into the United States?","acceptedAnswer":{"@type":"Answer","text":"Must register with FDA (biennial renewal), have DUNS number, designate US Agent, pass GFSI audit (BRC/SQF/FSSC 22000), provide lot-specific COAs. Prior Notice 8 hours before vessel arrival."}},
     {"@type":"Question","name":"My paprika has an orange tint instead of deep red — what caused this?","acceptedAnswer":{"@type":"Answer","text":"Orange tint indicates low a*/b* ratio (<1.5). Causes: early harvest, variety with low capsanthin, high-temp drying (>75\u00b0C) degrading red pigments faster than yellow, or over-grinding releasing seed oil. Cannot be fixed after grinding. Blending with Special Grade (ASTA 200+) can improve redness."}}
   ]
->>>>>>> Stashed changes
 ---
 # B2B Procurement FAQ — 10 Real Quality Disputes and How to Resolve Them
 

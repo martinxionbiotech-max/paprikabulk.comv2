@@ -1,10 +1,6 @@
 ---
 title: [Product Name]
 schema_type: Product
-<<<<<<< Updated upstream
-description: [Brief product description]
-keywords: []
-=======
 description: [Brief product description — 1–2 sentences summarizing the product's grade, form, and primary applications]
 keywords:
 - [product keyword1]
@@ -13,18 +9,13 @@ keywords:
 - ASTA [value range]
 datePublished: YYYY-MM-DD
 dateModified: YYYY-MM-DD
->>>>>>> Stashed changes
 ---
 
 # [Product Name]
 
 ## Overview
 
-<<<<<<< Updated upstream
-[Brief product overview — 2–3 sentences]
-=======
 [Brief product overview — 2–3 sentences describing the product, its grade, ASTA range, and primary use cases. Include the target customer segment and key differentiators vs. competing grades.]
->>>>>>> Stashed changes
 
 ## Scientific Classification
 
@@ -33,13 +24,8 @@ dateModified: YYYY-MM-DD
 | Botanical Name | *Capsicum annuum* L. |
 | Product Form | [Powder / Flakes / Whole Pods / Oleoresin] |
 | Grade | [Premium / Superior / Standard / Special] |
-<<<<<<< Updated upstream
-| Origin | [Country / Region] |
-| Harvest Season | [Month range] |
-=======
 | Origin | [Country / Region — e.g., Xinjiang, China, Hungary, Spain] |
 | Harvest Season | [Month range — e.g., August–October] |
->>>>>>> Stashed changes
 
 ## Specifications
 
@@ -47,19 +33,12 @@ dateModified: YYYY-MM-DD
 |:---------:|:-------------:|:------:|
 | ASTA Color Value | [value range] | ASTA 20.1 / ISO 7541 |
 | Moisture Content | [value] max | ISO 939 / AOAC 925.10 |
-<<<<<<< Updated upstream
-| Particle Size | [mesh] | ASTM E11 |
-| Bulk Density | [range] g/mL | ASTM D7481 |
-| Total Ash | [value] max | AOAC 923.03 |
-| Acid-Insoluble Ash | [value] max | AOAC 941.03 |
-=======
 | Particle Size | [mesh — e.g., ≥ 95% through 40 mesh] | ASTM E11 |
 | Bulk Density | [range] g/mL | ASTM D7481 |
 | Total Ash | [value] max | AOAC 923.03 |
 | Acid-Insoluble Ash | [value] max | AOAC 941.03 |
 | Volatile Oils | [value] mL/100g min | AOAC |
 | Color (CIELAB) | L*[value] a*[value] b*[value] | CIE 15 |
->>>>>>> Stashed changes
 
 ## Microbiological Limits
 
@@ -69,10 +48,7 @@ dateModified: YYYY-MM-DD
 | Yeast & Mold | [value] CFU/g | ISO 21527 |
 | Salmonella | Negative / 25 g | FDA BAM |
 | E. coli | Negative / 25 g | ISO 16649 |
-<<<<<<< Updated upstream
-=======
 | Bacillus cereus | [value] CFU/g | ISO 7932 |
->>>>>>> Stashed changes
 
 ## Heavy Metals
 
@@ -83,8 +59,6 @@ dateModified: YYYY-MM-DD
 | Arsenic (As) | [value] | ICP-MS |
 | Mercury (Hg) | [value] | ICP-MS |
 
-<<<<<<< Updated upstream
-=======
 ## Mycotoxin Limits
 
 | Mycotoxin | Limit (μg/kg) | Regulatory Source |
@@ -93,33 +67,12 @@ dateModified: YYYY-MM-DD
 | Total Aflatoxins | [value] | [EU / US / CN] |
 | Ochratoxin A | [value] | [EU] |
 
->>>>>>> Stashed changes
 ## Storage & Shelf Life
 
 | Parameter | Requirement |
 |:---------:|:-----------:|
 | Temperature | [range]°C |
 | Relative Humidity | [value]% max |
-<<<<<<< Updated upstream
-| Packaging | [type] |
-| Shelf Life | [duration] |
-
-## Applications
-
-- [Application 1]
-- [Application 2]
-- [Application 3]
-
-## Certifications
-
-- [Certification 1]
-- [Certification 2]
-
-## Related Documentation
-
-- [Related Document 1](path/to/doc.md)
-- [Related Document 2](path/to/doc.md)
-=======
 | Packaging | [type — e.g., poly-lined paper bags / vacuum-sealed / jumbo bags] |
 | Shelf Life (sealed) | [duration] |
 | Shelf Life (after opening) | [duration] |
@@ -152,21 +105,16 @@ dateModified: YYYY-MM-DD
 - [Related Document 1](path/to/doc.md) — Brief description
 - [Related Document 2](path/to/doc.md) — Brief description
 - [Specification Comparison](../specifications/grade-comparison.md) — Compare this product to other grades
->>>>>>> Stashed changes
 
 ## FAQ
 
 ### Q: [Frequently asked question about this product]?
 
-<<<<<<< Updated upstream
-**A:** [Answer with supporting data if applicable.]
-=======
 **A:** [Answer with supporting data if applicable. Include relevant standard references.]
 
 ### Q: [Another common question]?
 
 **A:** [Answer with practical guidance.]
->>>>>>> Stashed changes
 
 ---
 

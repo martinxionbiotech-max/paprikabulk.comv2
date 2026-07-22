@@ -10,8 +10,6 @@ keywords:
 - oleoresin
 - EFSA
 - FDA
-<<<<<<< Updated upstream
-=======
 - ICH Q3C
 - process solvents
 - Class 2 solvents
@@ -24,32 +22,10 @@ keywords:
 - carotenoid extraction
 - food-grade solvents
 - organic solvents
->>>>>>> Stashed changes
 ---
 
 # Solvent Extraction — Regulatory Framework for Paprika Oleoresin
 
-<<<<<<< Updated upstream
-## Residual Solvent Limits
-
-| Solvent | EU Limit (mg/kg) | US FDA Limit (mg/kg) | Japan Limit (mg/kg) |
-|:-------:|:----------------:|:--------------------:|:-------------------:|
-| n-Hexane | ≤ 25 | ≤ 25 | ≤ 25 |
-| Acetone | ≤ 30 | ≤ 30 | ≤ 30 |
-| Ethanol | ≤ 50 | ≤ 50 | ≤ 50 (generally recognized as safe) |
-| Ethyl Acetate | ≤ 50 | ≤ 50 | No specific limit |
-| Methanol | ≤ 10 | ≤ 10 | ≤ 10 |
-| 2-propanol | ≤ 50 | ≤ 50 | ≤ 50 |
-
-## Cross-References
-
-- [Oleoresin](../glossary/spice-science/oleoresin.md) — Extraction process details
-- [Particle Size](../glossary/spice-science/particle-size.md) — Feedstock requirements for extraction
-
----
-
-*This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved.*
-=======
 ## Overview
 
 Solvent extraction is the principal industrial method for producing paprika oleoresin — a concentrated liquid extract containing the full spectrum of carotenoid pigments (capsanthin, capsorubin, beta-carotene) and capsaicinoids (if present) from dried paprika pods. The process involves contacting ground paprika with a food-grade solvent, selectively dissolving the target compounds, then evaporating the solvent to yield the final oleoresin product.
@@ -209,4 +185,3 @@ A: Yes. Each solvent limit is independently assessed. For example, an oleoresin 
 ---
 
 *This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved. For the latest version, visit [paprikabulk.com](https://paprikabulk.com).*
->>>>>>> Stashed changes

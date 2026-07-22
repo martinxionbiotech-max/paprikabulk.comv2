@@ -1,21 +1,6 @@
 ---
 title: [FAQ Topic]
 schema_type: FAQPage
-<<<<<<< Updated upstream
-description: [Brief description of the FAQ topic]
-keywords: []
-faq_questions:
-  - "@type": "Question"
-    name: "[Question 1]"
-    acceptedAnswer:
-      "@type": "Answer"
-      text: "[Short answer to question 1]"
-  - "@type": "Question"
-    name: "[Question 2]"
-    acceptedAnswer:
-      "@type": "Answer"
-      text: "[Short answer to question 2]"
-=======
 description: [Brief description of the FAQ topic covering the key questions and scope of this page]
 keywords:
 - [keyword1]
@@ -23,13 +8,10 @@ keywords:
 - [keyword3]
 datePublished: YYYY-MM-DD
 dateModified: YYYY-MM-DD
->>>>>>> Stashed changes
 ---
 
 # [FAQ Topic]
 
-<<<<<<< Updated upstream
-=======
 ## Overview
 
 This FAQ page addresses common questions about [topic]. Use this page to find quick answers to frequently asked questions, supported by data, method references, and cross-links to related documentation.
@@ -39,31 +21,18 @@ Each Q&A includes:
 - **Detailed explanation** — Context, data, method references, and practical implications
 - **Related links** — Cross-references to specifications, regulations, or guides for deeper reading
 
->>>>>>> Stashed changes
 ## Q: [Question 1]?
 
 **A: [Short Answer]**
 
-<<<<<<< Updated upstream
-[Detailed explanation — add context, data, method references, and practical implications.]
-=======
 [Detailed explanation — add context, data, method references, and practical implications. Include relevant numbers, standards references, and real-world examples where applicable.]
 
 **Related reading:** [Related Document](path/to/doc.md)
->>>>>>> Stashed changes
 
 ## Q: [Question 2]?
 
 **A: [Short Answer]**
 
-<<<<<<< Updated upstream
-[Detailed explanation.]
-
-## Related Topics
-
-- [Related Topic 1](path/to/doc.md)
-- [Related Topic 2](path/to/doc.md)
-=======
 [Detailed explanation — expand with supporting data, regulatory context, or case study references. Explain not just the answer but why it matters in practice.]
 
 **Related reading:** [Related Document](path/to/doc.md)
@@ -148,7 +117,6 @@ This FAQ page is structured to support Schema.org FAQPage markup for AI search e
   ]
 }
 ```
->>>>>>> Stashed changes
 
 ---
 

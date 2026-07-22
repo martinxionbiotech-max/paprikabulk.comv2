@@ -8,8 +8,6 @@ keywords:
 - non-GMO
 - conventional breeding
 - biotechnology
-<<<<<<< Updated upstream
-=======
 - transgenic
 - EU GMO regulation
 - GM crop approval
@@ -19,23 +17,12 @@ keywords:
 - virus resistance
 - agroinfiltration
 - CRISPR
->>>>>>> Stashed changes
 ---
 
 # GMO Status of Paprika
 
 ## Overview
 
-<<<<<<< Updated upstream
-There are **no commercially approved GMO (genetically modified organism) varieties of *Capsicum annuum*** anywhere in the world as of 2026. All commercially traded paprika, regardless of origin (China, Hungary, Spain, USA, India), is conventionally bred through traditional selection and hybridization techniques.
-
-## Key Facts
-
-- No GMO *Capsicum* species is approved for cultivation or import in any major market (EU, US, China, Japan)
-- Research on transgenic peppers has been published (primarily for virus resistance, e.g., *CMV* coat protein) but **none has reached commercial release**
-- The high heterozygosity and outcrossing nature of *Capsicum* makes GMO regulation compliance complex — the absence of commercial GMO varieties means no cross-contamination risk
-- Non-GMO declarations for paprika are inherently risk-free, but documentation (supplier declaration) is required for EU and Japanese import
-=======
 There are **no commercially approved GMO (genetically modified organism) varieties of *Capsicum annuum*** anywhere in the world as of 2026. All commercially traded paprika — regardless of origin (China, Hungary, Spain, USA, India, Peru, Zimbabwe) — is conventionally bred through traditional selection, hybridization, and open-pollinated variety development. This unique status makes paprika one of the few major global commodity crops with zero commercial GMO adoption, offering significant regulatory simplification for buyers, processors, and re-exporters who require non-GMO supply chains.
 
 ## Technical Background
@@ -157,18 +144,11 @@ A: No. Japan's GM labeling requirements apply to the top 33 GM crops (including 
 
 **Q: Could shared processing equipment contaminate paprika with GMO material from other crops?**
 A: Yes, this is theoretically possible if paprika is ground or packed in facilities that also process GM corn, soy, or other crops. However, this is a trace-allergen/cross-contact issue, not a GMO issue for the paprika itself. If your customer requires 100% GMO-free supply chains, specify dedicated processing lines in your supplier agreement and request cleaning verification protocols (e.g., swab tests, line clearance checklists).
->>>>>>> Stashed changes
 
 ## Cross-References
 
 - [Organic Certification](../certifications/organic.md) — Additional GMO-free verification for organic
 - [Origin Traceability](../glossary/sourcing-trade/origin-traceability.md) — Genetic origin verification via DNA barcoding
-<<<<<<< Updated upstream
-
----
-
-*This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved.*
-=======
 - [Supplier Qualification](../glossary/sourcing-trade/supplier-qualification.md) — Supplier audit requirements including non-GMO declarations
 - [Specification](../glossary/quality-control/specification.md) — Including non-GMO in product specifications
 - [Certificate of Analysis](../glossary/documentation-certification/coa.md) — CoA template with GMO-free statement
@@ -178,4 +158,3 @@ A: Yes, this is theoretically possible if paprika is ground or packed in facilit
 ---
 
 *This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved. For the latest version, visit [paprikabulk.com](https://paprikabulk.com).*
->>>>>>> Stashed changes

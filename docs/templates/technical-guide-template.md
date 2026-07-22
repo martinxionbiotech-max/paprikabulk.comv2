@@ -1,9 +1,5 @@
 ---
 title: [Technical Guide Title]
-<<<<<<< Updated upstream
-description: [Brief description]
-keywords: []
-=======
 description: [Brief description — 1–2 sentences explaining what procedure or topic this guide covers and why it is important for quality management]
 keywords:
 - [keyword1]
@@ -14,30 +10,12 @@ keywords:
 - [product form] testing
 datePublished: YYYY-MM-DD
 dateModified: YYYY-MM-DD
->>>>>>> Stashed changes
 ---
 
 # [Technical Guide Title]
 
 ## Purpose
 
-<<<<<<< Updated upstream
-[What this procedure achieves — 1–2 sentences]
-
-## Introduction
-
-[Context — when and why this procedure is used]
-
-## Scope
-
-[Applicable products, departments, situations]
-
-## Equipment & Materials
-
-| Item | Specification | Purpose |
-|:----:|:-------------:|:--------|
-| [Equipment] | [Spec] | [Purpose] |
-=======
 [What this procedure achieves — 1–2 sentences. Explain the objective and why this procedure is important for quality management, compliance, or operational consistency. Example: "This procedure defines the standardized method for measuring ASTA color value in paprika powder to ensure reliable, reproducible results that can be compared across laboratories."]
 
 ## Introduction
@@ -79,19 +57,11 @@ dateModified: YYYY-MM-DD
 | [Hazard — e.g., "Acetone is flammable (flash point -20°C)"] | [Precaution — e.g., "No open flames, use in fume hood"] | [PPE — e.g., "Safety glasses, nitrile gloves, lab coat"] |
 | [Hazard] | [Precaution] | [PPE] |
 | [Hazard] | [Precaution] | [PPE] |
->>>>>>> Stashed changes
 
 ## Procedure
 
 ### Step 1: [Step Title]
 
-<<<<<<< Updated upstream
-[Detailed instructions]
-
-### Step 2: [Step Title]
-
-[Detailed instructions]
-=======
 [Detailed instructions — write in imperative mood. Include specific quantities, times, temperatures, and tolerances. Reference the applicable standard section where appropriate.]
 
 Example: "Weigh 0.1000 ± 0.0005 g of ground sample into a 100 mL volumetric flask. Add approximately 70 mL of acetone (ACS grade). Record the exact sample weight."
@@ -121,31 +91,11 @@ Example: "Calculate ASTA value using: ASTA = (A × 164 × DF) / W where A = abso
 [Detailed instructions. Cover documentation and record-keeping requirements.]
 
 Example: "Record all results on the ASTA Color Test Record form. Compare against specification limits. Flag any result outside ±10% of target for supervisor review."
->>>>>>> Stashed changes
 
 ## Critical Control Points
 
 | Step | Hazard | Control | Verification |
 |:----:|:------:|:-------:|:-----------:|
-<<<<<<< Updated upstream
-| [Step] | [Hazard] | [Control measure] | [Verification method] |
-
-## Acceptance Criteria
-
-| Parameter | Acceptable Range |
-|:---------:|:----------------:|
-| [Parameter] | [Range] |
-
-## Related Documentation
-
-- [Doc 1](path/to/doc.md)
-- [Doc 2](path/to/doc.md)
-
-## References
-
-1. [Standard / Regulation reference]
-2. [Standard / Regulation reference]
-=======
 | [Step number / name] | [What can go wrong — e.g., "Sample not sufficiently ground, reducing extraction efficiency"] | [How to prevent — e.g., "Grind for specified duration, verify particle size passes specified mesh"] | [How to verify — e.g., "Pass sample through 500 μm sieve; reject if >5% retained"] |
 | [Step] | [Hazard] | [Control] | [Verification] |
 | [Step] | [Hazard] | [Control] | [Verification] |
@@ -191,7 +141,6 @@ Example: "Record all results on the ASTA Color Test Record form. Compare against
 3. [Standard / Regulation reference]
 4. [Internal SOP reference]
 5. [Regulatory reference — e.g., EC Regulation 396/2005 on MRLs]
->>>>>>> Stashed changes
 
 ---
 

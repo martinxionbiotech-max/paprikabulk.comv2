@@ -1,17 +1,11 @@
 ---
 title: FAQ — Paprika Procurement & Quality
-<<<<<<< Updated upstream
-description: Frequently asked questions about paprika quality, disputes, regulatory compliance, and supplier verification.
-=======
 description: Frequently asked questions about paprika quality, disputes, regulatory compliance, and supplier verification for B2B buyers. Comprehensive answers with data, standards references, and practical guidance.
->>>>>>> Stashed changes
 keywords:
 - paprika FAQ
 - paprika procurement FAQ
 - quality disputes
 - paprika regulations
-<<<<<<< Updated upstream
-=======
 - paprika specification FAQ
 - paprika supplier questions
 - ASTA color FAQ
@@ -20,16 +14,10 @@ keywords:
 - spice procurement Q&A
 datePublished: 2025-06-01
 dateModified: 2026-07-21
->>>>>>> Stashed changes
 ---
 
 # FAQ — Procurement & Quality Questions
 
-<<<<<<< Updated upstream
-| Topic | Link |
-|:------|:-----|
-| B2B Procurement FAQ — 10 Real Quality Disputes | [procurement-faq.md](procurement-faq.md) |
-=======
 This section answers the most frequently asked questions in B2B paprika procurement — covering specification interpretation, quality disputes, regulatory compliance, supplier qualification, and logistics. Each FAQ is based on real incidents and common inquiries encountered in daily trade operations.
 
 Our FAQ library helps procurement teams, quality managers, and food R&D professionals quickly resolve common questions without extensive back-and-forth with suppliers. Each entry includes detailed explanations, data-backed answers, and cross-references to relevant specification and regulatory documents.
@@ -135,4 +123,3 @@ To submit a question for our FAQ library:
 ---
 
 *This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved. For the latest version, visit [paprikabulk.com](https://paprikabulk.com).*
->>>>>>> Stashed changes

@@ -9,33 +9,17 @@ keywords:
 - milk
 - allergen control
 - sanitation
-<<<<<<< Updated upstream
-=======
 - FALCPA
 - EU FIC
 - cleaning validation
 - allergen threshold
 - VITAL
->>>>>>> Stashed changes
 ---
 
 # Allergen Management — Protocols for Paprika Facilities
 
 ## Overview
 
-<<<<<<< Updated upstream
-Paprika powder itself is not a major allergen under US FDA (FALCPA) or EU (Regulation 1169/2011) labeling regulations. However, paprika processing facilities often handle other products that may contain major allergens: wheat flour (seasoning blends), soy (bulk additives), or milk powder (sauce premises).
-
-## Control Measures
-
-| Control Point | Requirement | Verification |
-|:-------------:|:-----------:|:------------:|
-| Receiving | Dedicated allergen-status declaration per ingredient | COA review |
-| Storage | Physical segregation (separate aisle/room) | Weekly inspection |
-| Production scheduling | Allergen-containing products run AFTER non-allergen | Production log |
-| Cleaning | Full wet clean between allergen and non-allergen runs | ATP swab (< 30 RLU) |
-| Labeling | Allergen advisory on blend COA | Label approval |
-=======
 Paprika powder itself is not a major allergen under US FDA (FALCPA) or EU (Regulation 1169/2011) labeling regulations. However, paprika processing facilities often handle other products that may contain major allergens: wheat flour (seasoning blends), soy (bulk additives), or milk powder (sauce premises). In shared facilities, the primary objective of an allergen management program is to prevent cross-contact between allergen-containing and allergen-free products.
 
 ## Background — Regulatory Landscape
@@ -166,19 +150,15 @@ A: No. ATP detects only ATP-containing residues (food soils, microorganisms). Al
 | Customer rejects due to undeclared allergen | Lot misidentification in ERP | Implement barcode scanning at each production step |
 | Allergen carry-over in first-run material | Dead spot in transfer piping | Install clean-in-place (CIP) ports at all pipe junctions |
 | Inconsistent swab results | Different operators applying different pressure | Standardize swabbing technique with template (100 cm²) and force gauge training |
->>>>>>> Stashed changes
 
 ## Cross-References
 
 - [Gluten-Free Certification](../certifications/gluten-free.md) — Specific gluten control
 - [HACCP](../glossary/documentation-certification/haccp.md) — Allergen as CCP or PRP
 - [Supplier Questionnaire](./supplier-questionnaire.md) — Allergen management inquiry
-<<<<<<< Updated upstream
-=======
 - [Incoming Inspection](./incoming-inspection.md) — Receiving checks for allergen declarations
 - [Sanitation SOP](../glossary/quality-control/sanitation-sop.md) — Detailed cleaning procedures
 - [Microbiology](./microbiology.md) — Cross-reference with microbiological cleaning verification
->>>>>>> Stashed changes
 
 ---
 

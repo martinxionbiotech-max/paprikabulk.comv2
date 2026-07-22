@@ -10,42 +10,17 @@ keywords:
 - color science
 - hue
 - chroma
-<<<<<<< Updated upstream
-=======
 - color difference
 - Delta E
 - illuminant
 - observer angle
 - color tolerance
->>>>>>> Stashed changes
 ---
 
 # Color Science — CIELAB Measurement for Paprika
 
 ## Definition
 
-<<<<<<< Updated upstream
-CIELAB (CIE L*a*b*, CIE 1976) is a standardized color space defined by the International Commission on Illumination (CIE) that expresses color as three coordinates: **L*** (lightness, 0 = black to 100 = white), **a*** (red-green axis, positive = red, negative = green), and **b*** (yellow-blue axis, positive = yellow, negative = blue). For paprika quality assessment, CIELAB provides an objective instrumental measurement of perceived color that complements spectrophotometric ASTA (total carotenoid content).
-
-## Relevance to Paprika
-
-CIELAB captures *hue* differences that ASTA alone cannot distinguish:
-
-| CIELAB Characteristic | Meaning for Paprika | Industry Relevance |
-|-----------------------|---------------------|-------------------|
-| **L*** = 30–45 | Lightness — darker powders appear richer | Desired range for premium grades |
-| **a*** = 25–45 | Redness — higher = more red | Primary quality visual parameter |
-| **b*** = 25–45 | Yellowness — higher = more orange/yellow | Orange hue detector |
-| **a*/b* ratio** | Red hue purity — >1.0 = red-dominant | Target: ≥1.5 for meat applications |
-| **C* = √(a*²+b*²)** | Chroma (saturation) | Higher = more vivid color |
-| **h° = arctan(b*/a*)** | Hue angle — 0° = red, 90° = yellow | Target: 25–45° for paprika |
-
-**Key Insight:** Two paprika samples can have the same ASTA 160 but differ significantly in a*/b* ratio. One may appear deep red (a*/b* > 1.8), the other orange-red (a*/b* ~ 1.2). This is why sophisticated buyers specify both ASTA and CIELAB targets.
-
-## Measurement Method
-
-Per CIE recommendations: D65 illuminant, 10° observer angle, 30 mm aperture, sample cell ≥10 mm depth. Results are reported as the mean of 3 measurements with sample repositioning between readings.
-=======
 CIELAB (CIE L*a*b*, CIE 1976) is a standardized color space defined by the International Commission on Illumination (CIE) that expresses color as three coordinates: **L*** (lightness, 0 = black to 100 = white), **a*** (red-green axis, positive = red, negative = green), and **b*** (yellow-blue axis, positive = yellow, negative = blue). For paprika quality assessment, CIELAB provides an objective instrumental measurement of perceived color that complements spectrophotometric ASTA (total carotenoid content) by capturing hue and saturation differences that ASTA alone cannot detect.
 
 ## Background — The CIELAB Color Space
@@ -171,7 +146,6 @@ A: White and black tile calibration at minimum daily (before first measurement).
 **Q: What causes a*/b* ratio to drift during storage?**
 
 A: Selective degradation of capsanthin (red, a* axis) is faster than β-carotene (orange, b* axis). Capsanthin degrades at approximately 1.5× the rate of β-carotene, causing the a*/b* ratio to decrease over time. This is a natural aging process that cannot be reversed. See [Storage](./storage.md) for mitigation.
->>>>>>> Stashed changes
 
 ## Cross-References
 
@@ -180,11 +154,8 @@ A: Selective degradation of capsanthin (red, a* axis) is faster than β-carotene
 - [Carotenoids](../glossary/spice-science/carotenoids.md) — Pigment profile determines hue
 - [Specification](../glossary/quality-control/specification.md) — CIELAB in supplier specs
 - [ASTA Color Test Record](./asta-color-test.md) — Combined ASTA + CIELAB log
-<<<<<<< Updated upstream
-=======
 - [Spectrophotometer](./spectrophotometer.md) — Instrumentation and calibration
 - [Water Activity](./water-activity.md) — a_w effects on color degradation kinetics
->>>>>>> Stashed changes
 
 ---
 

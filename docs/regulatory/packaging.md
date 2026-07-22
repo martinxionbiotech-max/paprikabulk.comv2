@@ -8,8 +8,6 @@ keywords:
 - moisture vapor transmission
 - foil laminate
 - food packaging
-<<<<<<< Updated upstream
-=======
 - OTR
 - MVTR
 - packaging specifications
@@ -42,30 +40,10 @@ keywords:
 - recyclable packaging
 - REACH
 - packaging migration
->>>>>>> Stashed changes
 ---
 
 # Packaging Standards for Paprika
 
-<<<<<<< Updated upstream
-## Barrier Requirements
-
-| Property | Standard Value | Test Method |
-|----------|:-------------:|:-----------:|
-| Oxygen Transmission Rate (OTR) | ≤ 5 cm³/m²/day at 23°C, 0% RH | ASTM D3985 |
-| Moisture Vapor Transmission Rate (MVTR) | ≤ 0.5 g/m²/day at 38°C, 90% RH | ASTM F1249 |
-| Thickness (PE liner) | ≥ 0.05 mm (0.08 mm recommended) | Micrometer gauge |
-| Light Transmission | < 1% UV-Vis (400–700 nm) | ASTM D1003 |
-
-## Common Packaging Configurations
-
-| Structure | OTR | MVTR | Best For |
-|-----------|:---:|:----:|----------|
-| Kraft + PE liner (25kg) | > 100 | > 10 | Short-term, dry routes |
-| Foil-laminated (3-ply) | < 5 | < 0.5 | Long-term, tropical routes |
-| Alu-bag (4-ply) | < 0.5 | < 0.1 | Premium, 12+ month storage |
-| PP woven + PE (bulk bag) | 50–200 | 5–20 | Domestic, short-cycle |
-=======
 ## Overview
 
 Packaging is the critical interface between paprika products and the external environment. Proper packaging selection directly determines product shelf life, color retention (ASTA degradation rate), microbial stability, moisture control, and freight economics. This document covers the regulatory standards, barrier properties, material specifications, and best practices for packaging paprika in bulk and retail forms.
@@ -185,19 +163,11 @@ A: Yes. Nitrogen flushing (reducing headspace O₂ to < 2%) approximately double
 
 **Q: How should paprika packaging be stored before use?**
 A: Pre-made bags should be stored in their original sealed cartons in a cool (15–25°C), dry (< 50% RH) environment, away from direct sunlight and any volatile chemicals (solvents, cleaning agents). Unexpired bags should be used within 12 months of manufacture. Bags that appear yellowed, delaminated, or have visible pinholes should be rejected. For foil laminates, rough handling (flexing, creasing) can create pinholes that destroy the oxygen barrier.
->>>>>>> Stashed changes
 
 ## Cross-References
 
 - [Packaging (Processing)](../glossary/processing/packaging.md) — Processing-level packaging
 - [Container Loading](../glossary/sourcing-trade/container-loading.md) — Packaging in logistics context
-<<<<<<< Updated upstream
-- [Storage../quality-control/storage.md) — Barrier requirements for long-term storage
-
----
-
-*This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved.*
-=======
 - [Storage](../quality-control/storage.md) — Barrier requirements for long-term storage
 - [Shelf Life](./shelf-life.md) — Shelf life implications of barrier selection
 - [ASTA Color Value](../glossary/spice-science/asta.md) — ASTA degradation as a function of packaging barrier
@@ -212,4 +182,3 @@ A: Pre-made bags should be stored in their original sealed cartons in a cool (15
 ---
 
 *This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved. For the latest version, visit [paprikabulk.com](https://paprikabulk.com).*
->>>>>>> Stashed changes

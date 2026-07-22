@@ -1,10 +1,6 @@
 ---
 title: Guides — Practical Technical Procedures
-<<<<<<< Updated upstream
-description: Step-by-step guides for paprika quality control, sampling, inspection, and laboratory analysis.
-=======
 description: Step-by-step procedural guides for paprika quality control, sampling, inspection, sensory evaluation, sieve analysis, and laboratory analysis — comprehensive SOP documentation for B2B procurement and QC teams.
->>>>>>> Stashed changes
 keywords:
 - paprika guides
 - quality control procedures
@@ -12,8 +8,6 @@ keywords:
 - sensory evaluation
 - sieve analysis
 - incoming inspection
-<<<<<<< Updated upstream
-=======
 - container loading inspection
 - paprika SOP
 - paprika laboratory methods
@@ -23,28 +17,10 @@ keywords:
 - paprika QC procedures
 datePublished: 2025-06-01
 dateModified: 2026-07-21
->>>>>>> Stashed changes
 ---
 
 # Guides — Practical Technical Procedures
 
-<<<<<<< Updated upstream
-This section contains step-by-step procedural guides for paprika quality control, laboratory analysis, and supply chain management.
-
-## Available Guides
-
-| Guide | Purpose |
-|:------|:--------|
-| [Sampling Procedure (ISO 948)](../quality-control/sampling-procedure.md) | Representative sampling protocol for paprika lots |
-| [Sensory Evaluation](../quality-control/sensory-evaluation.md) | Standardized organoleptic assessment (ISO 4121) |
-| [Sieve Analysis](../quality-control/sieve-analysis.md) | Particle size distribution measurement |
-| [Incoming Inspection](../quality-control/incoming-inspection.md) | Receiving inspection checklist and SOP |
-| [Container Loading Inspection](../quality-control/container-loading-inspection.md) | Shipping container inspection protocol |
-
----
-
-*This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved.*
-=======
 This section contains step-by-step procedural guides for paprika quality control, laboratory analysis, and supply chain management. Each guide is written for practical implementation by QC personnel, inspectors, and procurement teams at all experience levels.
 
 ## Why Use Standardized Procedures
@@ -146,4 +122,3 @@ All guides are maintained under version control in the documentation repository.
 ---
 
 *This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved. For the latest version, visit [paprikabulk.com](https://paprikabulk.com).*
->>>>>>> Stashed changes

@@ -1,18 +1,12 @@
 ---
 title: White Papers — In-Depth Technical Guides
-<<<<<<< Updated upstream
-description: Five comprehensive white papers on paprika origin comparison, ASTA color value methodology, grade classification, specification interpretation, and supply chain management.
-=======
 description: Five comprehensive white papers on paprika origin comparison, ASTA color value methodology, grade classification, specification interpretation, and supply chain management. Executive summaries, read time estimates, and key insights for each paper.
->>>>>>> Stashed changes
 keywords:
 - paprika white papers
 - paprika origin guide
 - ASTA guide
 - paprika specifications
 - paprika supply chain
-<<<<<<< Updated upstream
-=======
 - paprika grades explained
 - technical research papers
 - paprika B2B guides
@@ -21,22 +15,10 @@ keywords:
 - paprika sourcing guide
 datePublished: 2025-06-01
 dateModified: 2026-07-21
->>>>>>> Stashed changes
 ---
 
 # White Papers — Technical Research Papers
 
-<<<<<<< Updated upstream
-In-depth technical guides on paprika quality, sourcing, and trade:
-
-| Paper | Focus | Pages |
-|:------|:------|:-----:|
-| [Paprika Origin Guide](paprika-origin-guide.md) | Global growing regions (Xinjiang, Hungary, Spain, Serbia, India) | ~45 |
-| [ASTA Color Value Guide](asta-color-value-guide.md) | Complete measurement methodology and interpretation | ~35 |
-| [Paprika Grades Explained](paprika-grades-explained.md) | Premium vs Superior vs Standard vs Special | ~30 |
-| [Paprika Specifications Guide](paprika-specifications.md) | Every specification parameter explained | ~30 |
-| [Paprika Supply Chain Guide](paprika-supply-chain.md) | Farm-to-port flow with CCP mapping | ~25 |
-=======
 In-depth technical guides on paprika quality, sourcing, and trade. Each white paper provides comprehensive, research-backed analysis designed for procurement professionals, quality managers, and food industry R&D teams.
 
 ## Why Read These White Papers
@@ -155,4 +137,3 @@ White papers are available in Markdown format directly from the links above. For
 ---
 
 *This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved. For the latest version, visit [paprikabulk.com](https://paprikabulk.com).*
->>>>>>> Stashed changes

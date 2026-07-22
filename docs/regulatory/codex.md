@@ -7,8 +7,6 @@ keywords:
 - paprika definition
 - food standard
 - CXS 242
-<<<<<<< Updated upstream
-=======
 - CXS 242-2003
 - WHO
 - FAO
@@ -22,35 +20,12 @@ keywords:
 - contaminants
 - pesticide residues
 - heavy metals
->>>>>>> Stashed changes
 ---
 
 # Codex Standard for Paprika — CXS 242-2003
 
 ## Overview
 
-<<<<<<< Updated upstream
-Codex Alimentarius Standard CXS 242-2003 "Standard for Paprika" (formerly Codex Stan 242-2003) defines the internationally agreed-upon identity, quality, and labeling requirements for paprika traded across borders. It is referenced by the WTO SPS Agreement as the benchmark standard for food safety.
-
-## Scope
-
-Applies to paprika (*Capsicum annuum* L.) in the following forms:
-- Whole dried pods
-- Crushed/ground paprika
-- Paprika powder
-
-## Key Provisions
-
-| Requirement | Specification |
-|-------------|---------------|
-| Moisture content | ≤ 12.0% m/m |
-| Total ash | ≤ 10.0% m/m |
-| Acid-insoluble ash | ≤ 1.5% m/m |
-| Extraneous matter | ≤ 1.0% m/m |
-| Volatile oil | ≥ 0.2 mL/100g (min.) |
-| Pesticide residues | Within Codex MRLs or national regulations |
-| Heavy metals | Within Codex general standards |
-=======
 Codex Alimentarius Standard **CXS 242-2003** "Standard for Paprika" (formerly Codex Stan 242-2003, adopted in 2003 and amended 2011, 2015, 2019, 2022) defines the internationally agreed-upon identity, quality, and labeling requirements for paprika traded across international borders. It is developed and maintained by the Codex Alimentarius Commission, a joint body of the **Food and Agriculture Organization (FAO)** and the **World Health Organization (WHO)** of the United Nations.
 
 As the benchmark standard under the **WTO Agreement on the Application of Sanitary and Phytosanitary Measures (SPS Agreement)**, CXS 242-2003 serves as the reference point for resolving trade disputes regarding paprika quality and safety. WTO member nations are encouraged to base their national regulations on Codex standards; deviations must be scientifically justified under SPS provisions.
@@ -224,18 +199,10 @@ A: Yes. EU law imposes additional requirements beyond Codex, particularly for pe
 
 **Q: Does Codex require country-of-origin labeling for bulk shipments?**
 A: Yes. CXS 242-2003 Section 7.3 requires country of origin on all product labels, including bulk containers destined for further processing. The intent is traceability for food safety purposes. Blended paprika (multi-origin) must declare all countries of origin with percentage composition of each. Example: "Product of India (55%), China (35%), Peru (10%)."
->>>>>>> Stashed changes
 
 ## Cross-References
 
 - [ESA Standards](./esa.md) — European Spice Association minima
-<<<<<<< Updated upstream
-- [Specification../quality-control/specification.md) — How specs align with Codex
-
----
-
-*This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved.*
-=======
 - [Specification](../glossary/quality-control/specification.md) — How specs align with Codex
 - [AOAC Official Methods](./aoac.md) — Analytical methods referenced by Codex
 - [GMO Status](./gmo.md) — GMO-free implications for Codex compliance
@@ -251,4 +218,3 @@ A: Yes. CXS 242-2003 Section 7.3 requires country of origin on all product label
 ---
 
 *This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved. For the latest version, visit [paprikabulk.com](https://paprikabulk.com).*
->>>>>>> Stashed changes

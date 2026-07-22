@@ -1,10 +1,6 @@
 ---
 title: Products — Paprika Product Documentation
-<<<<<<< Updated upstream
-description: Complete product documentation for paprika grades and forms — specifications, quality data, and application guides.
-=======
 description: Complete product documentation for all paprika grades and forms — Premium, Superior, Standard, and Special ASTA 200+ in powder, flakes, whole pods, and oleoresin. Technical specifications, quality data, and application guides.
->>>>>>> Stashed changes
 keywords:
 - paprika products
 - paprika grades
@@ -12,8 +8,6 @@ keywords:
 - paprika flakes
 - paprika whole pods
 - paprika oleoresin
-<<<<<<< Updated upstream
-=======
 - premium paprika
 - superior paprika
 - standard paprika
@@ -23,29 +17,10 @@ keywords:
 - paprika bulk supply
 datePublished: 2025-06-01
 dateModified: 2026-07-21
->>>>>>> Stashed changes
 ---
 
 # Products — Technical Documentation
 
-<<<<<<< Updated upstream
-This section provides comprehensive product documentation for every paprika product offered by Dinweys (Qingdao).Co.,Ltd. Each product page includes specifications, analytical data, storage requirements, and applications.
-
-## Product Categories
-
-| Product Form | Grade | ASTA Range | Best For |
-|:------------:|:-----:|:----------:|:---------|
-| [Powder — Premium](../specifications/paprika-powder/premium-grade.md) | Premium | 160–200 | High-color meat applications |
-| [Powder — Superior](../specifications/paprika-powder/superior-grade.md) | Superior | 120–160 | Premium seasoning blends |
-| [Powder — Standard](../specifications/paprika-powder/standard-grade.md) | Standard | 80–120 | General food coloring |
-| [Powder — Special ASTA200+](../specifications/paprika-powder/special-grade.md) | Special | 200+ | Oleoresin extraction feedstock |
-| [Flakes — Premium](../specifications/paprika-flakes/premium-grade.md) | Premium | 160–200 | Gourmet garnish, rubs |
-| [Flakes — Superior](../specifications/paprika-flakes/superior-grade.md) | Superior | 120–160 | Seasoning blends |
-| [Flakes — Standard](../specifications/paprika-flakes/standard-grade.md) | Standard | 80–120 | Cost-sensitive applications |
-| [Flakes — Special](../specifications/paprika-flakes/special-grade.md) | Special | 200+ | Maximum color, extract use |
-| [Whole Pods](../specifications/whole-pods.md) | Raw | Varies | On-site grinding, import |
-| [Grade Comparison](../specifications/grade-comparison.md) | All | 80–260+ | Side-by-side comparison |
-=======
 This section provides comprehensive product documentation for every paprika product offered by Dinweys (Qingdao). Co., Ltd. Each product page includes specifications, analytical data, storage requirements, and applications.
 
 ## Product Overview
@@ -93,19 +68,11 @@ Flakes provide visual impact and slower color release, ideal for applications wh
 |:--------|:------------|:----------:|:------------|
 | [Whole Pods](../specifications/whole-pods.md) | Dried whole paprika pods, unground | Varies by origin and season | On-site grinding, import processing, custom milling |
 | [Grade Comparison](../specifications/grade-comparison.md) | Side-by-side comparison across 9 parameters | 80–260+ | Specification selection decision tool |
->>>>>>> Stashed changes
 
 ## Featured Product
 
 ### Premium Grade Paprika Powder
 
-<<<<<<< Updated upstream
-The flagship product — ASTA 160–200 with deep red color (a*/b* ≥ 1.8), ideal for processed meats, surimi, and premium seasonings. See [full specification](/specifications/paprika-powder/premium-grade.md).
-
----
-
-*This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved.*
-=======
 The flagship product — ASTA 160–200 with deep red color (CIELAB a*/b* ≥ 1.8), ideal for processed meats, surimi, and premium seasonings.
 
 | Parameter | Value |
@@ -151,4 +118,3 @@ See the [full specification](/specifications/paprika-powder/premium-grade.md) fo
 ---
 
 *This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved. For the latest version, visit [paprikabulk.com](https://paprikabulk.com).*
->>>>>>> Stashed changes

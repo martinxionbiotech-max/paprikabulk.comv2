@@ -8,31 +8,17 @@ keywords:
 - free radical
 - capsanthin
 - polyphenol
-<<<<<<< Updated upstream
-=======
 - FRAP
 - ABTS
 - TEAC
 - singlet oxygen
 - lipid oxidation
->>>>>>> Stashed changes
 ---
 
 # Antioxidant Activity of Paprika Carotenoids
 
 ## Overview
 
-<<<<<<< Updated upstream
-Paprika powder has an Oxygen Radical Absorbance Capacity (ORAC) of approximately 21,000 µmol TE/100 g (USDA database) — one of the highest among dried spices. The primary contributors are capsanthin, capsorubin, β-carotene, and phenolic compounds.
-
-| Compound | ORAC Contribution | Mechanism |
-|:---------:|:-----------------:|:---------:|
-| Capsanthin | ~45% | Singlet oxygen quenching (SOQ) |
-| Capsorubin | ~15% | Radical scavenging |
-| β-Carotene | ~20% | Peroxyl radical trapping |
-| Phenolics | ~15% | Metal chelation + radical scavenging |
-| Tocopherols | ~5% | Lipid oxidation chain breaking |
-=======
 Paprika powder has an Oxygen Radical Absorbance Capacity (ORAC) of approximately 21,000 µmol TE/100 g (USDA database) — one of the highest among dried spices. The primary contributors are capsanthin, capsorubin, β-carotene, and phenolic compounds. Antioxidant activity is a key quality differentiator for premium paprika grades, directly correlating with color stability, shelf life, and nutritional value.
 
 ## Background — Antioxidant Mechanisms in Paprika
@@ -161,20 +147,16 @@ A: Studies show inconsistent results. Some meta-analyses report 10–15% higher 
 | DPPH inconsistent with ASTA trend | Sample matrix interference (e.g., high moisture) | Adjust sample mass for moisture content |
 | Low FRAP values | Metal contamination in extraction solvent | Use analytical-grade solvents; chelex-treated water |
 | Declining antioxidant trend in lots | Inconsistent drying temperatures | Monitor dryer profile; maintain <65°C |
->>>>>>> Stashed changes
 
 ## Cross-References
 
 - [Carotenoids](../glossary/spice-science/carotenoids.md) — Pigment chemistry
 - [ASTA](../glossary/spice-science/asta.md) — Total carotenoid measurement
 - [Capsanthin](../glossary/spice-science/capsanthin.md) — Dominant antioxidant carotenoid
-<<<<<<< Updated upstream
-=======
 - [Water Activity](./water-activity.md) — a_w effects on antioxidant stability
 - [Storage](./storage.md) — Conditions for antioxidant preservation
 - [Spectrophotometer](./spectrophotometer.md) — Instrumentation for DPPH/FRAP/ABTS assays
 - [HPLC](./hplc.md) — Compound-level antioxidant profiling
->>>>>>> Stashed changes
 
 ---
 

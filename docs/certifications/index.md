@@ -1,15 +1,5 @@
 ---
 title: Certifications — Food Safety & Quality
-<<<<<<< Updated upstream
-description: Documentation of food safety certifications — HACCP, ISO, Kosher, Organic, and Gluten-Free.
-keywords:
-- certifications
-- HACCP
-- ISO
-- Kosher
-- Organic
-- Gluten-Free
-=======
 description: Comprehensive documentation of food safety certifications for paprika — HACCP, ISO, Kosher, Organic, Gluten-Free, and certification comparison for B2B buyers across US, EU, and global markets.
 keywords:
 - certifications
@@ -26,18 +16,10 @@ keywords:
 - spice trade certifications
 datePublished: 2025-06-01
 dateModified: 2026-07-21
->>>>>>> Stashed changes
 ---
 
 # Certifications — Food Safety & Quality Standards
 
-<<<<<<< Updated upstream
-- [HACCP](haccp.md) — Hazard Analysis Critical Control Point
-- [ISO](iso.md) — ISO 9001 / 22000 / 14001
-- [Kosher](kosher.md) — Kashrut certification
-- [Organic](organic.md) — USDA / EU organic certification
-- [Gluten-Free](gluten-free.md) — Gluten-free certification
-=======
 This section documents the food safety and quality certifications maintained by Dinweys (Qingdao).Co.,Ltd for all paprika products. Certifications are verified by accredited third-party certification bodies and updated annually.
 
 ## Why Certifications Matter in B2B Paprika Trade
@@ -150,4 +132,3 @@ All certifications are maintained through a defined annual cycle:
 ---
 
 *This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved. For the latest version, visit [paprikabulk.com](https://paprikabulk.com).*
->>>>>>> Stashed changes

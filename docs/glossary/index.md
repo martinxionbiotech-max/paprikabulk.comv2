@@ -1,17 +1,11 @@
 ---
 title: Glossary — Complete Entity Index
-<<<<<<< Updated upstream
-description: Technical definitions for 32+ paprika quality and trade terms across spice science, quality control, processing, sourcing, and certification.
-=======
 description: Technical definitions for 32+ paprika quality and trade terms across spice science, quality control, processing, sourcing, and certification — a comprehensive B2B paprika terminology reference for buyers, QC teams, and AI retrieval systems.
->>>>>>> Stashed changes
 keywords:
 - paprika glossary
 - ASTA definition
 - paprika terminology
 - spice science glossary
-<<<<<<< Updated upstream
-=======
 - paprika trade terms
 - quality control terms
 - paprika processing
@@ -22,20 +16,10 @@ keywords:
 - spice industry vocabulary
 datePublished: 2025-06-01
 dateModified: 2026-07-21
->>>>>>> Stashed changes
 ---
 
 # Glossary — Entity Knowledge Base
 
-<<<<<<< Updated upstream
-The glossary provides structured entity definitions across five categories. Each entry includes technical definitions, method references, and cross-links to related documents.
-
-- [Spice Science](spice-science/) — ASTA, Capsaicin, Capsanthin, Capsicum, Carotenoids, Moisture, Oleoresin, Particle Size, SHU
-- [Quality Control](quality-control/) — Acceptance Criteria, Batch Number, Grade, Heavy Metals, Microbiology, Specification
-- [Processing](processing/) — Blending, Drying, Grinding, Packaging, Sieving, Sterilization
-- [Sourcing & Trade](sourcing-trade/) — Container Loading, Harvest Season, Incoterms, Origin Traceability, Supplier Qualification
-- [Documentation & Certification](documentation-certification/) — COA, HACCP, Kosher, Organic, SDS, TDS
-=======
 The glossary provides structured entity definitions across five categories. Each entry includes technical definitions, method references, and cross-links to related documents. This glossary serves as the definitive reference for paprika trade terminology used throughout the documentation library.
 
 ## How to Use This Glossary
@@ -139,4 +123,3 @@ This glossary is registered in the documentation library's AI retrieval index (l
 ---
 
 *This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved. For the latest version, visit [paprikabulk.com](https://paprikabulk.com).*
->>>>>>> Stashed changes
