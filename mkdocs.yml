@@ -30,8 +30,6 @@ theme:
     - navigation.expand
     - navigation.top
     - navigation.indexes
-    - search.suggest
-    - search.highlight
     - content.code.copy
     - content.code.annotate
     - content.tabs.link
@@ -64,7 +62,6 @@ markdown_extensions:
   - pymdownx.smartsymbols
 
 plugins:
-  - search
   - glightbox
   - minify:
       minify_html: true
