@@ -1,0 +1,76 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://paprikabulk.com/sitemap.xml
+
+<<<<<<< Updated upstream
+# Disallow common non-content paths
+=======
+# Disallow non-content paths
+>>>>>>> Stashed changes
+Disallow: /assets/
+Disallow: /overrides/
+Disallow: /templates/
+Disallow: /404.html
+<<<<<<< Updated upstream
+
+# Allow AI crawlers
+=======
+Disallow: /sitemap.xml.gz
+Disallow: /sitemap.xml
+
+# Full access for major AI crawlers
+>>>>>>> Stashed changes
+User-agent: GPTBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+<<<<<<< Updated upstream
+
+User-agent: PerplexityBot
+Allow: /
+=======
+Crawl-delay: 1
+
+User-agent: PerplexityBot
+Allow: /
+Crawl-delay: 1
+>>>>>>> Stashed changes
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+<<<<<<< Updated upstream
+# Crawl-delay
+Crawl-delay: 1
+=======
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+Crawl-delay: 1
+
+User-agent: Cohere-ai
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# Polite crawl-delay for all crawlers
+Crawl-delay: 1
+
+# Sitemap reference
+Sitemap: https://paprikabulk.com/sitemap.xml
+>>>>>>> Stashed changes
